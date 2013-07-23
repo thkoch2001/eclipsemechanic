@@ -1,0 +1,10 @@
+# @title Line width
+# @description Set line with to 100 soft 120 hard
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Jul 11 17:26:38 CEST 2013
+/instance/org.eclipse.ui.editors/printMarginColumn=100
+/instance/org.eclipse.ui.editors/printMargin=true
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.lineSplit=120

@@ -1,0 +1,8 @@
+# @title Favorite Static Members
+# @description Guava, JAX-RS
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Jul 10 08:33:09 CEST 2013
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=com.google.common.base.Preconditions.*;com.google.common.base.Predicates.*;com.google.common.base.Strings.*;com.google.common.collect.Collections2.*;com.google.common.collect.Lists.*;com.google.common.collect.Maps.*;com.google.common.collect.Sets.*;javax.ws.rs.core.MediaType.*
